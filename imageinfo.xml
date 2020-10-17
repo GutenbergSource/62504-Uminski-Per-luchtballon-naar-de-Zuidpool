@@ -1,0 +1,32 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="219" filedate="2018-12-16 12:06:25" width="16px" height="16px"/>
+<image path="images/card.png" filesize="230" filedate="2018-12-16 12:06:25" width="16px" height="11px"/>
+<image path="images/external.png" filesize="159" filedate="2018-12-16 12:06:25" width="12px" height="12px"/>
+<image path="images/frontcover.jpg" filesize="86068" filedate="2018-04-17 19:44:27" width="508px" height="720px"/>
+<image path="images/frontispiece.jpg" filesize="104568" filedate="2018-12-14 21:47:39" width="463px" height="720px"/>
+<image path="images/p001.png" filesize="14199" filedate="2018-12-14 21:47:41" width="624px" height="109px"/>
+<image path="images/p011.png" filesize="3337" filedate="2018-12-14 21:47:44" width="194px" height="100px"/>
+<image path="images/p012.png" filesize="15641" filedate="2018-12-14 21:47:45" width="620px" height="111px"/>
+<image path="images/p017.png" filesize="3076" filedate="2018-12-14 21:47:49" width="177px" height="107px"/>
+<image path="images/p025.jpg" filesize="144562" filedate="2018-12-14 21:47:49" width="565px" height="720px"/>
+<image path="images/p033.png" filesize="3622" filedate="2018-12-14 21:47:54" width="211px" height="115px"/>
+<image path="images/p040.png" filesize="3177" filedate="2019-12-13 20:23:42" width="196px" height="99px"/>
+<image path="images/p050.jpg" filesize="147814" filedate="2019-12-13 20:23:44" width="462px" height="720px"/>
+<image path="images/p065.jpg" filesize="144327" filedate="2019-12-13 20:23:45" width="524px" height="720px"/>
+<image path="images/p075.png" filesize="3567" filedate="2019-12-13 20:23:49" width="211px" height="115px"/>
+<image path="images/p095.png" filesize="3304" filedate="2019-12-13 20:23:53" width="197px" height="100px"/>
+<image path="images/p110.png" filesize="3182" filedate="2019-12-13 20:23:57" width="179px" height="109px"/>
+<image path="images/p121.jpg" filesize="91418" filedate="2018-12-14 21:47:54" width="626px" height="581px"/>
+<image path="images/p125.jpg" filesize="144268" filedate="2019-12-13 20:24:00" width="464px" height="720px"/>
+<image path="images/p129.jpg" filesize="148941" filedate="2019-12-13 21:57:21" width="605px" height="643px"/>
+<image path="images/p133.png" filesize="2872" filedate="2019-12-13 21:57:25" width="257px" height="66px"/>
+<image path="images/p155.png" filesize="3641" filedate="2019-12-14 16:24:19" width="210px" height="113px"/>
+<image path="images/p168.png" filesize="3020" filedate="2019-12-14 16:24:22" width="249px" height="66px"/>
+<image path="images/p182.png" filesize="3354" filedate="2019-12-14 16:24:26" width="196px" height="102px"/>
+<image path="images/p194.jpg" filesize="148555" filedate="2019-12-14 16:24:27" width="463px" height="720px"/>
+<image path="images/p217.jpg" filesize="210518" filedate="2019-12-13 21:57:25" width="573px" height="720px"/>
+<image path="images/p232.jpg" filesize="133782" filedate="2019-12-14 16:24:27" width="465px" height="720px"/>
+<image path="images/qrcode.png" filesize="268" filedate="2020-06-28 10:11:04" width="148px" height="148px"/>
+<image path="images/spine.jpg" filesize="11534" filedate="2018-12-14 21:47:54" width="75px" height="720px"/>
+<image path="images/titlepage.png" filesize="5999" filedate="2018-12-14 21:47:56" width="444px" height="720px"/>
+</images>

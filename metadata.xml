@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Per luchtballon naar de Zuidpool</dc:title>
+      <dc:creator>Władysław Jan Umiński (1865–1954)</dc:creator>
+      <dc:creator>Simon Jacob Andriessen (1831–1901)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2020-06-27</dc:publisher>
+      <dc:date>2020-06-27</dc:date>
+      <dc:rights>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie in dit eBoek of on-line op www.gutenberg.org.
+Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op www.pgdp.net.
+Vertaling (via het Frans, Au pôle sud en ballon) uit het Pools. De oorspronkelijke titel is Balonem do bieguna (1894).
+(Based on the available metadata, this work is likely to be subject to copyright in jurisdictions where copyright lasts for life plus 70 years until at least 1 January 2025.)</dc:rights>
+      <dc:subject>Voyages, Imaginary</dc:subject>
+      <dc:subject>Balloons -- Fiction</dc:subject>
+      <dc:subject>Antarctica -- Aerial exploration -- Fiction</dc:subject>
+      <dc:description>Władysław Umiński was een Pools schrijver en uitgever van jeugdboeken en populair wetenschappelijke werken. Hij word ook wel de Poolse Jules Verne genoemd, omdat hij science fiction in de Poolse literatuur introduceerde. Dit boek uit 1894, het enige dat ooit in het Nederlands is vertaald (via het Frans), verscheen in Polen onder de titel Balonem do bieguna in vele herdrukken. Het neemt wat vrijheid met de realiteit (zoals ijsberen op de Zuidpool), maar dat mag de pret niet drukken.</dc:description>
+      <dc:identifier>pg:62504</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
